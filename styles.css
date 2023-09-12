@@ -1,0 +1,32 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color: rgb(156, 158, 158);
+}
+.dice{
+    display: inline-block;
+    
+}
+img{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin: 40px;
+    padding: 0;
+    gap: 50px;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 4rem;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+footer{
+    font-size: small;
+    font-family: 'Indie+FlowerLobster';
+}
